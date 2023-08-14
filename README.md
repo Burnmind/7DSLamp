@@ -5,4 +5,6 @@
 
 Топовая DIY лампа.
 
+3D модель + схема - https://www.thingiverse.com/thing:6169508
+
 v 0.69
