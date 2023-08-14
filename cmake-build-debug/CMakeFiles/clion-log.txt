@@ -1,0 +1,9 @@
+"D:\Programs\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Programs/CLion 2022.1.1/bin/ninja/win/ninja.exe" -G Ninja -S D:\Engineering\SevenDeadlySinsLamp -B D:\Engineering\SevenDeadlySinsLamp\cmake-build-debug
+CMake Error at CMakeLists.txt:2 (include):
+  include could not find requested file:
+
+    /tools/cmake/project.cmake
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/Engineering/SevenDeadlySinsLamp/cmake-build-debug/CMakeFiles/CMakeOutput.log".
